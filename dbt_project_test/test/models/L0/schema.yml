@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: dbt_test_l0
+  - name: dbt_test_l0_c01
+  - name: dbt_test_l0_mseg_mkpf

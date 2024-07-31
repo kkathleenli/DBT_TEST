@@ -1,0 +1,13 @@
+test:
+  outputs:
+    dev:
+      account: shb67190.us-east-1
+      database: test
+      password: Lcq9932!
+      role: engineer
+      schema: temp
+      threads: 4
+      type: snowflake
+      user: chli
+      warehouse: compute_wh
+  target: dev

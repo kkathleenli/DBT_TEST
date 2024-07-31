@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: dbt_test_l1
+  - name: dbt_test_l1_c01
+  - name: dbt_test_l1_macro
+  - name: dbt_test_l1_mseg_mkpf
+  - name: sap_rename_test

@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+    - name: L0
+      database: TEST
+      schema: TEMP
+      tables:
+        - name: STAGE_ZMM_C36
+
+      database: SAP_BW
+      schema: L0
+      tables:
+        - name: STAGE_ZSD_C01
+        - name: STAGE_MSEG_MKPF
+
+    
